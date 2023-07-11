@@ -1,4 +1,4 @@
-Indeed has decided to archive this project, as it is no longer supported nor used internally. Thank you for your understanding. We won't be accepting pull requests or responding to issues for this project anymore. If you are a current user and would like to take over support for this project, please create a fork. 
+Fork of https://github.com/indeedeng/mph-table/ by original author.
 
 # Minimal Perfect Hash Tables
 
